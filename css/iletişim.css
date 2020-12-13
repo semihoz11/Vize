@@ -186,3 +186,109 @@ footer{
             line-height: 70px;
             text-align: center;
 }
+
+
+
+
+@media screen and (min-width:481px) and (max-width:768px) {
+
+
+
+
+
+
+
+    #iletisim {
+
+
+        height: 400px;
+        width: 100%;
+        
+
+
+
+
+    }
+
+
+    #iletisim pre {
+
+        font-size: 25px;
+        padding: 5% 20% 5% 0%;
+
+
+
+
+    }
+
+}
+
+
+@media screen and (max-width:480px) {
+
+
+
+    nav {
+
+        height: 200px;
+
+
+
+
+    }
+
+
+
+
+    #iletisim {
+
+        height: 400px;
+        
+
+
+
+
+
+
+
+
+
+    }
+
+    #iletisim pre {
+
+        text-align: center;
+        padding-right: 30%;
+        font-size: 14px;
+
+
+
+
+
+
+
+
+    }
+
+
+
+    footer {
+
+        width: 100%;
+
+
+
+    }
+
+}
+
+
+@media print {
+
+    nav, footer {
+
+        display: none;
+    }
+
+
+}

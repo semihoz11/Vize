@@ -120,4 +120,102 @@ footer{
             text-align: center;
 }
 
+
+
+
+@media screen and (min-width:481px) and (max-width:768px) {
+
+
+      #proje1 {
+
+
+        width: 50%;
+
+
+
+      }  
+
+
+
+
+
+
+
+
+
+
+
+
+}
+
+
+
+@media screen and (max-width:480px) {
+
+
+    #proje1yazi {
+
+
+
+        height: 200px;
+
+
+
+
+
+
+
+    }
+
+
+    #proje1 {
+
+
+        height: 60%;
+        width: 60%;
+
+
+
+
+    }
+
+
+
+    #proje2 {
+
+
+        height: 60%;
+        width: 60%;
+
+
+
+    }
+
+
+    
+    #proje3 {
+
+
+        height: 60%;
+        width: 60%;
+
+
+
+    }
+
+
+}
+
+@media print {
+
+    nav, #proje1, #proje2, #proje3, footer {
+
+
+        display: none;
+    }
+
+
+
+}
+
     

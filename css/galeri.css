@@ -166,3 +166,146 @@ footer{
             line-height: 70px;
             text-align: center;
 }
+
+
+@media screen and (min-width:481px) and (max-width:768px) {
+
+
+    #kampfoto {
+
+
+        height: 40%;
+        width: 40%;
+
+
+
+    }
+
+
+    
+    #magarafoto {
+
+
+        height: 40%;
+        width: 40%;
+
+
+
+    }
+
+
+    
+    #futbolfoto {
+
+
+        height: 40%;
+        width: 40%;
+
+
+
+    }
+
+    
+    #sufoto {
+
+
+        height: 40%;
+        width: 40%;
+
+
+
+    }
+    
+    
+    
+    #tubitakfoto {
+
+
+        height: 40%;
+        width: 40%;
+
+
+
+    }
+
+
+}
+
+
+@media screen and (max-width:480px) {
+
+
+
+    
+    #kampfoto {
+
+
+        height: 60%;
+        width: 60%;
+
+
+
+    }
+
+
+    
+    #magarafoto {
+
+
+        height: 60%;
+        width: 60%;
+
+
+
+    }
+
+
+    
+    #futbolfoto {
+
+
+        height: 60%;
+        width: 60%;
+
+
+
+    }
+
+    
+    #sufoto {
+
+
+        height: 60%;
+        width: 60%;
+
+
+
+    }
+    
+    
+    
+    #tubitakfoto {
+
+
+        height: 60%;
+        width: 60%;
+
+
+
+    }
+
+}
+
+
+@media print {
+
+    nav, #kampfoto, #magarafoto, #futbolfoto, #sufoto, #tubitakfoto {
+
+        display: none;
+
+    }
+
+
+
+
+}

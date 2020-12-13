@@ -152,8 +152,94 @@ footer{
 }
 
 
+@media screen and (min-width:481px) and (max-width:768px) {
+
+
+    #ana1 {
+
+        width: 50%;
+
+    }
+
+
+
+
+    #ana2 {
+
+        width: 50%;
+
+
+    }
+
+
+    #ana3 {
+
+        width: 50%;
+
+
+    }
+
+
+
+
+}
+
+
+  
+
+
+
+@media screen and (max-width:480px) {
+
+
+    #ana1 {
+
+        width: 80%;
+
+    }
+
+
+    #ana2 {
+
+        width: 80%;
+
+    }
+
+    
+    #ana3 {
+
+
+        width: 80%;
+
+
+
+    }
 
 
 
 
 
+}
+
+
+
+
+@media print {
+
+
+    header, nav, #ana1, #ana2, #ana3, footer {
+
+        display: none;
+    }
+
+
+
+
+
+
+
+
+
+
+
+}
