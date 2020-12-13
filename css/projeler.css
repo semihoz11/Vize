@@ -1,0 +1,123 @@
+#container{
+    background-color:lightcyan;      
+    width: 100%; 
+    margin: auto;   
+}
+
+
+nav {
+    
+    height: 100px;
+    
+
+}
+
+nav ul { 
+
+list-style-type: none;
+text-align: center;
+
+
+
+
+
+} 
+
+
+
+
+
+nav ul li {
+
+background-color:lightpink;
+width: 250px;  
+display: inline-block;
+
+
+
+
+
+}    
+
+nav ul li a {
+color: black;
+text-decoration: none;
+font-size: 20px;
+
+}
+
+#proje1yazi{
+
+    clear: both;
+    height: 100px;
+    line-height: 100px;
+    text-align: center;    
+    background-color: lightpink;
+
+}
+
+#proje1{
+
+    height: 30%;
+    width: 30%;
+    display: block;
+    margin-right: auto;
+    margin-left: auto;
+    
+}
+
+
+#proje2yazi{
+
+    clear: both;
+    height: 100px;
+    line-height: 100px;
+    text-align: center;    
+    background-color: lightpink;
+
+}
+
+
+#proje2{
+
+    height: 40%;
+    width: 40%;
+    display: block;
+    margin-right: auto;
+    margin-left: auto;
+}
+    
+
+#proje3yazi{
+
+    clear: both;
+    height: 100px;
+    line-height: 100px;
+    text-align: center;    
+    background-color: lightpink;
+
+}
+
+
+#proje3{
+
+    height: 40%;
+    width: 40%;
+    display: block;
+    margin-right: auto;
+    margin-left: auto;
+}
+
+
+footer{
+
+    background-color: black;    
+            color: white;
+            clear: both;
+            height: 70px;
+            width: 100½;
+            line-height: 70px;
+            text-align: center;
+}
+
+    

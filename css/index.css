@@ -1,0 +1,152 @@
+#container{
+    background-color:lightcyan;      
+    width: 100%; 
+    margin: auto;   
+}
+
+header {
+         clear: both; 
+         line-height: 150px;      
+         height: 150px;
+         width: 100%;
+         text-align: center;
+         padding-right: 10%;   
+         font-size: 50px;
+}
+
+
+nav {
+    
+    height: 100px;
+    
+
+}
+
+nav ul { 
+
+list-style-type: none;
+text-align: center;
+
+
+
+
+
+} 
+
+
+
+
+
+nav ul li {
+
+background-color:lightpink;
+width: 250px;  
+display: inline-block;
+
+
+
+
+
+}    
+
+nav ul li a {
+color: black;
+text-decoration: none;
+font-size: 20px;
+
+}
+
+
+#ana1 {
+
+    height: 500px;
+    float: left;
+    width: 25%;    
+    margin: 0% 0% 0% 0%;
+    padding: 5% 5% 10% 5%;
+    background-color:lightcyan;
+    
+    
+}
+
+
+#ana1yazi{
+    height: 500px;
+    float: left;
+    width: 54%;    
+    margin: 0% 0% 0% 0%;
+    padding: 15% 6% 0% 4%;
+    text-align: center;
+    font-size: 25px;
+    background-color:lightcyan;
+
+
+}
+
+
+#ana2 {
+    height: 600px;
+    float: right;
+    width: 25%;    
+    margin: 0% 0% 0% 0%;
+    padding: 5% 5% 10% 5%;
+    background-color:lightcyan ;
+
+}
+
+#ana2yazi {
+
+    height: 600px;
+    float: right;
+    width: 54%;    
+    margin: 0% 0% 0% 0%;
+    padding: 15% 6% 0% 4%;
+    text-align: center;
+    font-size: 25px;
+    background-color:lightcyan;
+
+
+}
+
+
+#ana3 {
+
+    height: 500px;
+    float: left;
+    width: 25%;    
+    margin: 0% 0% 0% 0%;
+    padding: 5% 5% 10% 5%;
+    background-color:lightcyan;
+    
+    
+}
+
+
+#ana3yazi{
+
+    height: 500px;
+    float: left;
+    width: 54%;    
+    margin: 0% 0% 0% 0%;
+    padding: 15% 6% 0% 4%;
+    text-align: center;
+    font-size: 25px;
+    background-color:lightcyan;
+
+
+
+
+}
+
+
+
+footer{
+
+    background-color: black;    
+            color: white;
+            clear: both;
+            height: 70px;
+            width: 100½;
+            line-height: 70px;
+            text-align: center;
+}
